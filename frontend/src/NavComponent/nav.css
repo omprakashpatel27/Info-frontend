@@ -1,0 +1,32 @@
+.nav-img{
+	height: 50px;
+	width: 70px;
+}
+
+.nav-outer{
+
+}
+
+.nav-inner{
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	background-color: #F2FDFD;
+}
+.nav-logo-heading{
+	font-family: sans-serif;
+}
+.nav-logo{
+	padding: 5px;
+	margin-left: 40px;
+}
+
+.nav-features{
+	display: flex;
+	flex-direction: row;
+}
+
+.nav-heading{
+	text-align: right;
+	font-size: medium;
+	padding: 5px;
+}

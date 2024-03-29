@@ -1,0 +1,1 @@
+export const buttonImage = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIipC-vMEFEecKPfRr66bvMgAF7KPhvg8PA&usqp=CAU'

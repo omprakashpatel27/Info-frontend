@@ -1,0 +1,42 @@
+.card-tags{
+	background-color: #f0f0f0; /* Set background color */
+        color: #333; /* Set text color */
+        padding: 5px; /* Add padding */
+        border: 1px solid #ccc; /* Add border */
+        border-radius: 5px; /* Add border radius */
+}
+
+.card-tags-container{
+	display: flex;
+	flex-direction: row;
+	gap: 5px;
+	margin-left: 15px;
+}
+
+.card-outer-container{
+	padding: 10px;
+	border: 0.5px solid white;
+	background-color: white;
+}
+
+.card-content{
+	margin-left: 15px;
+}
+
+.card-icon{
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 10px;
+}
+
+.card-content-out{
+	gap: 5px;
+}
+
+.line {
+  border: none; 
+  height: 2px; 
+  background-color: lightgray;
+  margin: 10px 0;
+}
